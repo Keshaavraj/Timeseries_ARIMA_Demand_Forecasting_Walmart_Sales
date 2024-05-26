@@ -1,0 +1,2 @@
+# Timeseries_ARIMA_Demand_Forecasting_Walmart_Sales
+Elevating Retail Strategy through Precise Demand Forecasting at Walmart
