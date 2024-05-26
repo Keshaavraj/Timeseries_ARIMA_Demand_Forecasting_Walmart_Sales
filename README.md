@@ -1,4 +1,4 @@
-# SalesInsight: Elevating Retail Strategy through Precise Demand Forecasting at Walmart 📈💡
+# SalesInsight: Elevating Retail Strategy through Precise Demand Forecasting (Timeseries Model - ARIMA/SARIMAX) at Walmart 📈💡
 
 ## Sales Data Analysis and Forecasting 🛒🔍
 
